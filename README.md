@@ -1,0 +1,3 @@
+- 💞️ Hi, I’m @wilson-jr
+- 👀 I’m interested in web design, front end
+- 🌱 I’m currently learning javascript
