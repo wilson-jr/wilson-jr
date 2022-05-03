@@ -1,3 +1,3 @@
 - 💞️ Hi, I’m @wilson-jr
-- 👀 I’m interested in web design, front end
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web design, front and back end
+- 🌱 I’m currently learning javascript, php and mysql
