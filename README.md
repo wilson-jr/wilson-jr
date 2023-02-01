@@ -1,3 +1,4 @@
-- 💞️ Hi, I’m @wilson-jr
-- 👀 I’m interested in web design and front end
-- 
+Howdy 👋
+Front-end Developer
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue&theme=dark)](https://skillicons.dev)
